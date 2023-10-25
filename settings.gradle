@@ -1,0 +1,2 @@
+rootProject.name = "Flashlight_ToggleButton_JAVA"
+include ':app'
